@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "your-company": {
+      "comment": "Example configuration for MCP clients - update with your company details",
+      "command": "node",
+      "args": ["dist/index.js"],
+      "env": {
+        "PORT": "3000"
+      }
+    },
+    "your-company-remote": {
+      "comment": "Example for connecting to deployed server",
+      "command": "npx",
+      "args": ["mcp-remote", "https://your-deployed-url.railway.app/mcp"]
+    }
+  }
+} 
