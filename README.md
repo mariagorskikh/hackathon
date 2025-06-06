@@ -1,4 +1,4 @@
-# 🚀 Company MCP Server Template
+# How to create a Context Agent and launch via MCP
 
 **Build and deploy a Model Context Protocol (MCP) server for your company in minutes!**
 
